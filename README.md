@@ -23,6 +23,8 @@ Olá! Eu sou a Karine Oliveira, estudante de Análise e Desenvolvimento de Siste
 ### Teste de Software
 ![QA](https://img.shields.io/badge/-QA-FF9900?style=flat-square&logo=quality-assurance&logoColor=white)
 ![Software Testing](https://img.shields.io/badge/-Software%20Testing-6DB33F?style=flat-square&logo=testing-library&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 
 ## Projetos Destacados
 
